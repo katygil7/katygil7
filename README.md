@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katherine Gil</h1>
 <h3 align="center">A passionate frontend developer and Army veteran</h3>
 
-- 👨‍💻 All of my projects are available at [katherinegil.venuscohort.com](katherinegil.venuscohort.com)
+- 👨‍💻 All of my projects are available at [https://katherinegil.venuscohort.com/](https://katherinegil.venuscohort.com/)
 
 - 💬 Favorite quote **“If there is no struggle, there is no progress.” - Frederick Douglass**
 
