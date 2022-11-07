@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Katherine Gil</h1>
 <h3 align="center">A passionate frontend developer and Army veteran</h3>
-
+- 💪🏼 I am currently working on my portfolio website
+     using ---------------> ⬇️⬇️⬇️😅
+- 🧠 I am currently learning React
 - 💬 Favorite quote **“If there is no struggle, there is no progress.” - Frederick Douglass**
 
 - 📫 How to reach me **gil.katherine22@gmail.com**
