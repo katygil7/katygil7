@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katherine Gil</h1>
 <h3 align="center">A passionate frontend developer and Army veteran</h3>
 
-- 💬 Favorite quote **“If there is no struggle, there is no progress.” - Frederick Douglass**
+- 💬 Favorite quote **“Everything happens for a reason”**
 
 - 📫 How to reach me **gil.katherine22@gmail.com**
 
