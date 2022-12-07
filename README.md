@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Katherine Gil</h1>
 <h3 align="center">A passionate full stack developer and Army veteran</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/VenusCohort/katherinegil)
+- 🔭 I’m currently working on [My Portfolio](https://katygil7.github.io/myportfolio)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://katherinegil.venuscohort.com/](https://katherinegil.venuscohort.com/)
+- 👨‍💻 All of my projects are available at [https://katygil7.github.io/myportfolio/](https://katygil7.github.io/myportfolio/)
 
 - 💬 Favorite quote **“Everything happens for a reason”**
 
 - 📫 How to reach me **gil.katherine22@gmail.com**
 
-- 📄 Know about my experiences [https://katherinegil.venuscohort.com/#about](https://katherinegil.venuscohort.com/#about)
+- 📄 Know about my experiences [ https://katygil7.github.io/myportfolio/#about]( https://katygil7.github.io/myportfolio/#about)
 
 - ⚡ I enjoy **learning - hiking - crossfit - coffee - personalGrowth & meaningful conversations**
 
