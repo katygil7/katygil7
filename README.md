@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://katygil7.github.io/myportfolio)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Phython**
 
 - 👨‍💻 All of my projects are available at [https://katygil7.github.io/myportfolio/](https://katygil7.github.io/myportfolio/)
 
